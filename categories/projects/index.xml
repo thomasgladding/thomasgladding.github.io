@@ -10,8 +10,6 @@
     <pubDate>Wed, 07 Apr 2021 18:43:21 &#43;0100</pubDate>
     <author>Author</author>
     <guid>http://thomasgladding.com/notes/personal-website-checklist/</guid>
-    <description><![CDATA[This personal website of mine is built using Hugo and the Loveit theme.
-I have a few planned developments, but was keen to just launch and dedicate time to making it incrementally correct.
- Launch thomasgladding.com Implement webmentions Add work history / CV Add example projects and case studies Create services page  ]]></description>
+    <description><![CDATA[Follow along with my 100 days of code journey.]]></description>
 </item></channel>
 </rss>
