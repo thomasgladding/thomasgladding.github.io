@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Thomas Gladding</title>
+        <link>http://thomasgladding.com/posts/</link>
+        <description>All Posts | Thomas Gladding</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>hello@thomasgladding.com (Thomas Gladding)</managingEditor>
+            <webMaster>hello@thomasgladding.com (Thomas Gladding)</webMaster><lastBuildDate>Tue, 04 May 2021 12:43:21 &#43;0100</lastBuildDate><atom:link href="http://thomasgladding.com/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>100 days of code</title>
+    <link>http://thomasgladding.com/2021/05/100-days-of-code/</link>
+    <pubDate>Tue, 04 May 2021 12:43:21 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>http://thomasgladding.com/2021/05/100-days-of-code/</guid>
+    <description><![CDATA[For those of you unfamiliar, 100 days of code is..
+Coding has always been a big part of my job. Creating client websites or writing scripts to run micro-services for clients. However, I only really know what I need to get by. I&rsquo;m going to spend the next 100 days delibreately learning and sharpening my coding skills.
+Day 0 - Getting prepared I&rsquo;ve created some goals to keep my focussed on my 100 days of code journey.]]></description>
+</item></channel>
+</rss>

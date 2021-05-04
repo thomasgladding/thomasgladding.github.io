@@ -1,0 +1,17 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Projects - Category - Thomas Gladding</title>
+        <link>http://thomasgladding.com/categories/projects/</link>
+        <description>Projects - Category - Thomas Gladding</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>hello@thomasgladding.com (Thomas Gladding)</managingEditor>
+            <webMaster>hello@thomasgladding.com (Thomas Gladding)</webMaster><lastBuildDate>Wed, 07 Apr 2021 18:43:21 &#43;0100</lastBuildDate><atom:link href="http://thomasgladding.com/categories/projects/" rel="self" type="application/rss+xml" /><item>
+    <title>Personal website roadmap</title>
+    <link>http://thomasgladding.com/notes/personal-website-checklist/</link>
+    <pubDate>Wed, 07 Apr 2021 18:43:21 &#43;0100</pubDate>
+    <author>Author</author>
+    <guid>http://thomasgladding.com/notes/personal-website-checklist/</guid>
+    <description><![CDATA[This personal website of mine is built using Hugo and the Loveit theme.
+I have a few planned developments, but was keen to just launch and dedicate time to making it incrementally correct.
+ Launch thomasgladding.com Implement webmentions Add work history / CV Add example projects and case studies Create services page  ]]></description>
+</item></channel>
+</rss>
